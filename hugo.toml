@@ -1,0 +1,25 @@
+baseURL = 'https://harikatha.eu/'
+languageCode = 'en-us'
+title = 'Hari Kathaa हरी कथा'
+theme = 'digitalgarden'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags'
+  weight = 3
+[taxonomies]
+  tag = "tags"
+  category = "categories"
