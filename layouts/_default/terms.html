@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <section class="tags-section">
+    <h1 class="tags-title">Tags for "{{ .Title }}"</h1>
+    <div class="tags-list">
+      {{ if .Pages }}
+        <ul>
+          {{ range .Pages }}
+            <li class="tag-item">
+              <a href="{{ .RelPermalink }}" class="tag-link">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <p>No tags available.</p>
+      {{ end }}
+    </div>
+  </section>
+  <!-- <style>
+    /* Dark Mode Styling */
+    .tags-section {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 20px;
+      background-color: #1e1e1e;
+      border-radius: 8px;
+      color: #f5f5f5;
+    }
+    .tags-title {
+      font-size: 24px;
+      margin-bottom: 15px;
+      color: #ffffff;
+    }
+    .tags-list ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .tag-item {
+      margin: 5px 0;
+    }
+    .tag-link {
+      text-decoration: none;
+      color: #1e90ff;
+      font-size: 18px;
+    }
+    .tag-link:hover {
+      text-decoration: underline;
+      color: #63b8ff;
+    }
+    p {
+      color: #cccccc;
+    }
+  </style> -->
+{{ end }}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hari Kathaa हरी कथा</title>
+    <title>Stories on Hari Kathaa हरी कथा</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Hari Kathaa हरी कथा</description>
+    <description>Recent content in Stories on Hari Kathaa हरी कथा</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2025 21:49:22 +0200</lastBuildDate>
@@ -16,10 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>With_source</title>
-      <link>http://localhost:1313/tags/with_source/</link>
+      <title>With_reference</title>
+      <link>http://localhost:1313/tags/with_reference/</link>
       <pubDate>Thu, 10 Apr 2025 21:49:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/with_source/</guid>
+      <guid>http://localhost:1313/tags/with_reference/</guid>
       <description></description>
     </item>
   </channel>

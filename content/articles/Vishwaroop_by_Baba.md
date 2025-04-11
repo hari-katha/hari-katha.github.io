@@ -2,7 +2,7 @@
 date = '2025-04-10T21:49:22+02:00'
 draft = false
 title = 'Vishwaroop by Baba'
-tags = ["with_source", "1985"]
+tags = ["With_reference", "1985"]
 categories = ["stories"]
 +++
 
