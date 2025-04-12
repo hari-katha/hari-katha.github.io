@@ -2,7 +2,7 @@
 date = '2025-04-10T21:49:22+02:00'
 draft = false
 title = 'Vishwaroop by Baba'
-tags = ["With_reference", "1985"]
+tags = ["with_reference", "1985"]
 categories = ["stories"]
 +++
 
@@ -26,4 +26,4 @@ This is my Dhyána Sundaram. Every sinner has the right to sit on my lap. The on
 There my universal form resides."
 
 ## Source
-From a talk given by Dádá Parameshvaránanda at Lake Gardens in December 1985hugo
+From a talk given by Dádá Parameshvaránanda at Lake Gardens in December 1985
