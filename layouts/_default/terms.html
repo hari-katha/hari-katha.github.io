@@ -3,16 +3,19 @@
     <h1 class="tags-title">Tags for "{{ .Title }}"</h1>
     <div class="tags-list">
       {{ if .Pages }}
-        <ul>
-          {{ range .Pages }}
-            <li class="tag-item">
-              <a href="{{ .RelPermalink }}" class="tag-link">{{ .Title }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      {{ else }}
-        <p>No tags available.</p>
-      {{ end }}
+      <ul>
+        {{ range $index, $tag := .Pages }}
+          <li class="tag-item">
+            <span class="tag-number">{{ add $index 1 }}.</span>
+            <a href="{{ $tag.RelPermalink }}" class="tag-link" style="text-decoration: underline;">
+              {{ $tag.Title }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>No tags available.</p>
+    {{ end }}
     </div>
   </section>
   <!-- <style>
