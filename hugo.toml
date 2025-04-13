@@ -2,6 +2,7 @@ baseURL = 'https://harikatha.eu/'
 languageCode = 'en-us'
 title = 'Hari Kathaa हरी कथा'
 theme = 'digitalgarden'
+publishDir = 'docs'
 
 [menu]
 [[menu.main]]
