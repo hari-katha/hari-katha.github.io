@@ -1,7 +1,7 @@
 +++
 date = '2025-04-13T21:42:25+02:00'
 draft = false
-title = 'DMC_in_Saharsa'
+title = 'DMC in Saharsa'
 tags = ["with_reference"]
 categories = ["stories"]
 +++
