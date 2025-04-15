@@ -1,6 +1,6 @@
 baseURL = 'https://harikatha.eu/'
 languageCode = 'en-us'
-title = 'Hari Kathaa हरी कथा'
+title = 'Hari Katha'
 theme = 'digitalgarden'
 #publishDir = 'docs'
 
