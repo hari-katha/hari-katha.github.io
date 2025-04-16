@@ -21,6 +21,10 @@ theme = 'digitalgarden'
   name = 'Tags'
   url = '/tags'
   weight = 3
+[[menu.main]]
+  name = 'Resources'
+  url = '/resources'
+  weight = 3
 [taxonomies]
   tag = "tags"
   category = "categories"
