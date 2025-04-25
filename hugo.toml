@@ -25,6 +25,15 @@ theme = 'digitalgarden'
   name = 'Resources'
   url = '/resources'
   weight = 3
+[[menu.main]]
+  name = 'Contact'
+  url = '/contact'
+  weight = 3
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
