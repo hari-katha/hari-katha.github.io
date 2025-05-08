@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harikatha.eu/contact/</loc>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/vispute_family/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/stories/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/with_reference/</loc>
+    <lastmod>2025-05-08T23:08:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-04-25T21:21:23+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/resources/</loc>
+    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2025-04-16T22:18:11+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/resources/books/</loc>
+    <loc>http://localhost:1313/resources/books/</loc>
     <lastmod>2025-04-16T22:04:25+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/tags/resources/</loc>
+    <loc>http://localhost:1313/tags/resources/</loc>
     <lastmod>2025-04-16T22:04:25+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/tags/</loc>
-    <lastmod>2025-04-16T22:04:25+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/articles/</loc>
-    <lastmod>2025-04-15T17:10:32+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-15T08:40:28+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/categories/</loc>
+    <loc>http://localhost:1313/articles/dmc_in_saharsa/</loc>
     <lastmod>2025-04-13T21:42:25+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/articles/dmc_in_saharsa/</loc>
-    <lastmod>2025-04-13T21:42:25+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/categories/stories/</loc>
-    <lastmod>2025-04-13T21:42:25+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/tags/with_reference/</loc>
-    <lastmod>2025-04-13T21:42:25+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/tags/1985/</loc>
+    <loc>http://localhost:1313/tags/1985/</loc>
     <lastmod>2025-04-10T21:49:22+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/articles/vishwaroop_by_baba/</loc>
+    <loc>http://localhost:1313/articles/vishwaroop_by_baba/</loc>
     <lastmod>2025-04-10T21:49:22+02:00</lastmod>
   </url>
 </urlset>
