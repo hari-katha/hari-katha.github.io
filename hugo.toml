@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Hari Katha'
 theme = 'digitalgarden'
 #publishDir = 'docs'
+enableEmoji = true
 
 [menu]
 [[menu.main]]
