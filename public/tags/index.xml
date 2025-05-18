@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories on Hari Katha</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://harikatha.eu/tags/</link>
     <description>Recent content in Stories on Hari Katha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 May 2025 23:08:21 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harikatha.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1965</title>
-      <link>http://localhost:1313/tags/1965/</link>
+      <link>https://harikatha.eu/tags/1965/</link>
       <pubDate>Thu, 08 May 2025 23:08:21 +0200</pubDate>
-      <guid>http://localhost:1313/tags/1965/</guid>
+      <guid>https://harikatha.eu/tags/1965/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal_experiences</title>
-      <link>http://localhost:1313/tags/personal_experiences/</link>
+      <link>https://harikatha.eu/tags/personal_experiences/</link>
       <pubDate>Thu, 08 May 2025 23:08:21 +0200</pubDate>
-      <guid>http://localhost:1313/tags/personal_experiences/</guid>
+      <guid>https://harikatha.eu/tags/personal_experiences/</guid>
       <description></description>
     </item>
     <item>
       <title>With_reference</title>
-      <link>http://localhost:1313/tags/with_reference/</link>
+      <link>https://harikatha.eu/tags/with_reference/</link>
       <pubDate>Thu, 08 May 2025 23:08:21 +0200</pubDate>
-      <guid>http://localhost:1313/tags/with_reference/</guid>
+      <guid>https://harikatha.eu/tags/with_reference/</guid>
       <description></description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/tags/resources/</link>
+      <link>https://harikatha.eu/tags/resources/</link>
       <pubDate>Wed, 16 Apr 2025 22:04:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/resources/</guid>
+      <guid>https://harikatha.eu/tags/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>1985</title>
-      <link>http://localhost:1313/tags/1985/</link>
+      <link>https://harikatha.eu/tags/1985/</link>
       <pubDate>Thu, 10 Apr 2025 21:49:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/1985/</guid>
+      <guid>https://harikatha.eu/tags/1985/</guid>
       <description></description>
     </item>
   </channel>
