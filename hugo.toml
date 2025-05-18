@@ -4,6 +4,7 @@ title = 'Hari Katha'
 theme = 'digitalgarden'
 #publishDir = 'docs'
 enableEmoji = true
+googleAnalytics = 'G-XKRMLSXKWF'
 
 [menu]
 [[menu.main]]
