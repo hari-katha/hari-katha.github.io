@@ -170,7 +170,32 @@ So once during a darshan in 1968, Bábá called me to sit in front of him. He to
     
     <a href="https://harikatha.eu/articles/">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
-    </a><div class="space-y-0.5">
+    </a>
+
+
+<input id="search-box" type="text" placeholder="Search..." />
+<ul id="search-results"></ul>
+<script>
+fetch("/index.json")
+  .then(res => res.json())
+  .then(data => {
+    const fuse = new Fuse(data, {
+      keys: ["title", "summary", "content"],
+      threshold: 0.3
+    });
+
+    const searchBox = document.getElementById("search-box");
+    const resultsList = document.getElementById("search-results");
+
+    searchBox.addEventListener("input", function() {
+      const results = fuse.search(this.value);
+      resultsList.innerHTML = results.map(result =>
+        `<li><a href="${result.item.permalink}">${result.item.title}</a></li>`
+      ).join("");
+    });
+  });
+</script>
+<div class="space-y-0.5">
       
       
       <a class="article block px-3 py-2 hover:bg-slate-200 dark:hover:bg-slate-700" href="/articles/vispute_family/">
@@ -271,6 +296,32 @@ Later Baba told me, &ldquo;That effulgent form is the real Anandamúrti. To unde
           gtag('config', 'G-H88T33Z5C9');
         }
       </script>
-</body>
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    fetch("/index.json")
+      .then(res => res.json())
+      .then(data => {
+        const fuse = new Fuse(data, {
+          keys: ["title", "summary", "content"],
+          threshold: 0.3
+        });
+
+        const searchBox = document.getElementById("search-box");
+        const resultsList = document.getElementById("search-results");
+
+        searchBox.addEventListener("input", function () {
+          const results = fuse.search(this.value);
+          resultsList.innerHTML = results.map(result =>
+            `<li><a href="${result.item.permalink}">${result.item.title}</a></li>`
+          ).join("");
+        });
+      });
+  });
+</script></body>
 
 </html>

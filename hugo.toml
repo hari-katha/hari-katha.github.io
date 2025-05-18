@@ -34,6 +34,8 @@ googleAnalytics = 'G-H88T33Z5C9'
 [taxonomies]
   tag = "tags"
   category = "categories"
+[outputs]
+  home = [ "HTML", "JSON" ]
 
 [markup]
   [markup.goldmark]
