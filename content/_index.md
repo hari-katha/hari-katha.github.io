@@ -9,9 +9,9 @@ title = 'Hari Katha'
 
 ### Hari Ananta Hari Katha Ananta
 
-That is _The Lord is boundless, His Stories are boundless_. When the Lord, the _Parama Puruśa_[^1] decides to take the human form, from the moment He is born until the moment He leaves the mortal body, with every second, every breath He achieves His _sankalp_[^4] and sets His _leela_ [^5]. This website is for _devotees_ who get inspired, cherish, and drown in devotion listening/reading to His _leela_.
+That is _The Lord is boundless, His Stories are boundless_. When the Lord, the _Parama Puruśa_[^1] decides to take the human form, from the moment He is born until the moment He leaves the mortal body, with every second, every breath He achieves His _sankalp_[^4] and sets His _leela_ [^5]. This website is for _devotees_ who get inspired, cherish, and drown in devotion listening to His _leela_.
 
-At the time of Lord Shiva, scripts were not invented yet [^3], but shruti (spoken) languages were prevalent. Hence a large portion of Lord Shiva's stories were eventually lost. During Lord Krishna's time, script was already invented. Hence much of His life, events, His leelas were documented. This time we hope to do better. To help with that we want to document all experiences, along with references, chronology, and all possible details. Structure of website is as follows:
+At the time of Lord Shiva, scripts were not invented yet [^3], but shrutii (spoken) languages were prevalent. Hence a large portion of Lord Shiva's stories were eventually lost. During Lord Krishna's time, script was already invented. Hence much of His life, events, His leelas were documented. This time we hope to do better. To help with that we want to document all experiences, along with references, chronology, and all possible details of Shrii Shrii Anandamurtii, our beloved Baba. Structure of website is as follows:
 
 * [List of articles.](/articles)
 * [Catalogue.](/tags)

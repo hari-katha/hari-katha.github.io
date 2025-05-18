@@ -2,7 +2,7 @@
 date = '2025-05-08T23:08:21+02:00'
 draft = false
 title = 'Experiences of Vispute Family'
-tags = ["with_reference", "personal_experiences"]
+tags = ["with_reference", "personal_experiences", "1965"]
 categories = ["stories"]
 +++
 
