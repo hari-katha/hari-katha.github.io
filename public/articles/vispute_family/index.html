@@ -166,30 +166,18 @@ I am Padmakar Laxman Vispute. My parents, my children and their children are all
     <a href="https://harikatha.eu/articles/">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
     </a>
+<label style="display: block; margin-bottom: 0.25rem;">
+  <input
+    id="search-box"
+    type="text"
+    name="search"
+    placeholder="Search..."
+    required
+    style="width: 100%; padding: 0.25rem; margin-top: 0.25rem; border: 1px solid #ccc; border-radius: 6px; color: #000;"
+  >
+</label>
 
-
-<input id="search-box" type="text" placeholder="Search..." />
-<ul id="search-results"></ul>
-<script>
-fetch("/index.json")
-  .then(res => res.json())
-  .then(data => {
-    const fuse = new Fuse(data, {
-      keys: ["title", "summary", "content"],
-      threshold: 0.3
-    });
-
-    const searchBox = document.getElementById("search-box");
-    const resultsList = document.getElementById("search-results");
-
-    searchBox.addEventListener("input", function() {
-      const results = fuse.search(this.value);
-      resultsList.innerHTML = results.map(result =>
-        `<li><a href="${result.item.permalink}">${result.item.title}</a></li>`
-      ).join("");
-    });
-  });
-</script>
+<ul id="search-results" style="list-style: none; padding-left: 0;"></ul>
 <div class="space-y-0.5">
       
       
@@ -325,25 +313,84 @@ With Baba&rsquo;s grace I got a job in Cadbury in 1981. Within a year my job bec
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    fetch("/index.json")
-      .then(res => res.json())
-      .then(data => {
-        const fuse = new Fuse(data, {
-          keys: ["title", "summary", "content"],
-          threshold: 0.3
+fetch("/index.json")
+  .then(res => res.json())
+  .then(data => {
+    const fuse = new Fuse(data, {
+      keys: ["title", "content"], 
+      threshold: 0.3,
+      includeMatches: true,
+      minMatchCharLength: 2
+    });
+
+    const searchBox = document.getElementById("search-box");
+    const resultsList = document.getElementById("search-results");
+
+    searchBox.addEventListener("input", function () {
+      const query = this.value.trim();
+      resultsList.innerHTML = "";
+
+      
+      if (query === "") {
+        resultsList.innerHTML = `<li style="padding: 0.5rem; color: #888;">Please enter a search term.</li>`;
+        return;
+      }
+
+      const results = fuse.search(query);
+
+      
+      if (results.length === 0) {
+        resultsList.innerHTML = `<li style="padding: 0.5rem; color: #888;">No results found.</li>`;
+        return;
+      }
+
+      
+      function highlightMatch(text, indices) {
+        let result = "";
+        let lastIndex = 0;
+
+        indices.forEach(([start, end]) => {
+          result += text.slice(lastIndex, start);
+          result += "<mark>" + text.slice(start, end + 1) + "</mark>";
+          lastIndex = end + 1;
         });
 
-        const searchBox = document.getElementById("search-box");
-        const resultsList = document.getElementById("search-results");
+        result += text.slice(lastIndex);
+        return result;
+      }
 
-        searchBox.addEventListener("input", function () {
-          const results = fuse.search(this.value);
-          resultsList.innerHTML = results.map(result =>
-            `<li><a href="${result.item.permalink}">${result.item.title}</a></li>`
-          ).join("");
+      
+      results.forEach(result => {
+        const { title, permalink } = result.item;
+        const matches = result.matches || [];
+
+        let highlightedTitle = title || "";
+        let totalMatches = 0;
+
+        matches.forEach(match => {
+          const { key, indices } = match;
+
+          totalMatches += indices.length;
+
+          if (key === "title" && indices.length > 0) {
+            highlightedTitle = highlightMatch(title, indices);
+          }
         });
+
+        const resultHTML = `
+          <li style="margin-bottom: 0.25rem; padding: 0.25rem; border: 1px solid #eee; border-radius: 6px;">
+            <a href="${permalink}" style="font-weight: bold; font-size: 1.1rem; color: #00aaff; text-decoration: none;">
+              ${highlightedTitle}
+            </a>
+            <p style="margin: 0.25rem 0 0.25rem; color: #999;">
+              <strong>${totalMatches}</strong> match${totalMatches === 1 ? "" : "es"} found
+            </p>
+          </li>
+        `;
+
+        resultsList.innerHTML += resultHTML;
       });
+    });
   });
 </script></body>
 
