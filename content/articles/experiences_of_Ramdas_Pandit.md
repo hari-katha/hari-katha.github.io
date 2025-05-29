@@ -439,3 +439,7 @@ So let us immerse ourselves in:
 * And dedicate ourselves to loving service of humanity in the name of Param Puruṣa.
 
 Our most beloved BABA is ever-ready to lift us into His divine lap.
+
+## Emergency Period
+
+Emergency period in India was from 25th June 1975 to 21st March 1977. All the institutions of Anandmarg were closed and workers as well active Anandmargis were arrested during that period. I had infected chest during emergency periods India and developed chronic asthma and still today I am living with oxygen bottles round the clock.  Thanks to BABA 's blessings I am alive today. In emergency period I was forced to remain underground and needed medical attention to treat chronic asthma. So I finally decided to return during emergency period. Since then I am serving BABA 's mission as simple Anandmargi.  Interestingly  when I met Baba in jail as Chief Secretary of SDM that time also BABA told me " ...you have Tivra Sanskara and you have to go back. " . I was surprised and asked BABA " I am cut off from my normal life how I will maintain myself ?" BABA looked at me told " ...to maintain your life is my responsibility you will not have to worry for it. ".  Till today I am completely cared for all my requirements. I spent 12 years as active  whole timer  (WT) and now as active Anandmargi I am member of Bhukti Committee  Ahmedabad  India. Any more information if needed, I will explain accordingly. 
