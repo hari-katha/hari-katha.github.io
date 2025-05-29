@@ -415,7 +415,7 @@ Chant His Name with your heart and soul:
 “BABA Nam Kevalam”
 —Only Love is Real. Only He is.
 
-# Bhakta (Devotee), Bhakti (Devotion), and Bhagaván (Param Puruṣa, the Supreme Consciousness)
+## Bhakta (Devotee), Bhakti (Devotion), and Bhagaván (Param Puruṣa, the Supreme Consciousness)
 Bhakta (Devotee), Bhakti (Devotion), and Bhagaván (Param Puruṣa, the Supreme Consciousness) are one and inseparable. Explaining Bhakti Tattva is therefore as subtle and profound as defining Param Puruṣa Himself. Yet, out of His boundless compassion, BABA has revealed the secrets of Bhakti in the simple language of the heart.
 
 Baba explains that the attraction of the mind, when directed toward worldly objects, becomes kāma-vāsanā (lust), but when directed toward Param Puruṣa, it transforms into Bhakti—pure devotion. Each of us has a full reservoir of attraction say 100 percent within us. It is up to us to either let it devolve into lust or evolve it into Bhakti, the absolute love for the Supreme.
