@@ -1,0 +1,29 @@
+body {
+  counter-reset: h1counter 1; /* always 1 for h1 */
+}
+
+.post-content h1 {
+  counter-reset: h2counter;
+}
+
+/* h1 should NOT increment and should not be displayed */
+.post-content h1::before {
+  content: "";
+}
+
+/* h2 and h3 increment as normal */
+.post-content h2 {
+  counter-reset: h3counter;
+}
+
+.post-content h2::before {
+  counter-increment: h2counter;
+  content: counter(h2counter);
+  margin-right: 0.5em;
+}
+
+.post-content h3::before {
+  counter-increment: h3counter;
+  content: counter(h2counter) "." counter(h3counter);
+  margin-right: 0.5em;
+}
