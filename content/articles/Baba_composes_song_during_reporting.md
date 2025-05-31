@@ -2,7 +2,7 @@
 date = '2025-05-31T16:50:20+02:00'
 draft = false
 title = 'Baba composed a song during reporting'
-tags = ["with_reference"]
+tags = ["with_reference", "1982"]
 +++
 
 In September 1982, a few days before Bábá started composing Prabháta Saḿgiita, He was very angry with Dada Mantreshvarānanda for some reason. So Dada said, “Bábá, I am leaving! I don't want to be here with You!” Dada then took his suitcase and started to go.
@@ -21,4 +21,4 @@ Everyone was touched by Bábá's loving words. Dada Mantreshvaránanda started t
 Later, when Bábá gave Prabháta Saḿgiita, Bábá mentioned that earlier song and said, “Even if you want that song to be included in the list of Prabháta Saḿgiita, I will not do it. Because My little boy Mantreshvarānanda has got some memory with that song. He will feel sad every time people will sing that. So let's not include that in the Prabhat Samgiita list.”
 
 #### Source
-(Told by Dada Sudhiiránanda)
+Told by Dada Sudhiiránanda

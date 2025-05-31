@@ -2,8 +2,7 @@
 date = '2025-04-13T21:42:25+02:00'
 draft = false
 title = 'DMC in Saharsa'
-tags = ["with_reference"]
-categories = ["stories"]
+tags = ["with_reference", "excerpt"]
 +++
 
 There was a DMC in Saharsa, Bihar. During the train journey, Baba sat for sadhana in His compartment. A person by the name of Kapil Narayan Suhurta who was a politician and an accomplished writer in Hindi was sitting nearby, watching Baba curiously. He started talking to a Margii who was with Baba. The Margii told him that Baba is the founder of Ananda Marga.

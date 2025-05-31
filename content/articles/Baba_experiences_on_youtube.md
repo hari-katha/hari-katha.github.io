@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T22:56:49+02:00'
 draft = false
-title = 'Baba experiences on youtube'
+title = 'Recordings of Baba experiences on youtube'
 tags = ["with_reference", "youtube"]
 +++
 

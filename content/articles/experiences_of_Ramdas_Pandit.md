@@ -2,8 +2,7 @@
 date = '2025-05-28T23:07:32+02:00'
 draft = false
 title = 'Experiences of Ramdas Pandit'
-tags = ["with_reference", "personal_experiences"]
-categories = ["stories"]
+tags = ["with_reference", "personal_experiences", "1965"]
 +++
 
 #### **Source**

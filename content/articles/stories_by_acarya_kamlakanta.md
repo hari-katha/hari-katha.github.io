@@ -2,9 +2,8 @@
 date = '2025-05-29T23:11:59+02:00'
 draft = false
 title = 'Stories by Acarya Kamlakanta'
-tags = ["with_reference", "personal_experiences"]
+tags = ["with_reference", "excerpt", "personal_experiences", "1959"]
 +++
-
 
 #### Source
 (Published in the 2001 yearly issue of "Jamalpur: The Birthplace of Shrii Shrii Anandamurtijii")

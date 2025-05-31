@@ -3,7 +3,6 @@ date = '2025-04-10T21:49:22+02:00'
 draft = false
 title = 'Vishwaroop by Baba'
 tags = ["with_reference", "1985"]
-categories = ["stories"]
 +++
 
 Since childhood I had a strong desire to see Vishvarúpa, the Universal Form of God, because in the Mahábhárata Krsna showed Arjuna his universal form and I thought, "If Arjuna can see it then why not me?" Even before coming to the Márga I had this desire.
