@@ -4,7 +4,7 @@
     <div class="tags-list">
       {{ if .Pages }}
       <ul>
-        {{ range $index, $tag := .Pages }}
+        {{ range $index, $tag := sort .Pages "Title"  }}
           <li class="tag-item">
             <span class="tag-number">{{ add $index 1 }}.</span>
             <a href="{{ $tag.RelPermalink }}" class="tag-link" style="text-decoration: underline;">
