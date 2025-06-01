@@ -442,3 +442,16 @@ Our most beloved BABA is ever-ready to lift us into His divine lap.
 ## Emergency Period
 
 Emergency period in India was from 25th June 1975 to 21st March 1977. All the institutions of Anandmarg were closed and workers as well active Anandmargis were arrested during that period. I had infected chest during emergency periods India and developed chronic asthma and still today I am living with oxygen bottles round the clock.  Thanks to BABA 's blessings I am alive today. In emergency period I was forced to remain underground and needed medical attention to treat chronic asthma. So I finally decided to return during emergency period. Since then I am serving BABA 's mission as simple Anandmargi.  Interestingly  when I met Baba in jail as Chief Secretary of SDM that time also BABA told me " ...you have Tivra Sanskara and you have to go back. " . I was surprised and asked BABA " I am cut off from my normal life how I will maintain myself ?" BABA looked at me told " ...to maintain your life is my responsibility you will not have to worry for it. ".  Till today I am completely cared for all my requirements. I spent 12 years as active  whole timer  (WT) and now as active Anandmargi I am member of Bhukti Committee  Ahmedabad  India. Any more information if needed, I will explain accordingly. 
+
+## BRAHMA SADHANA
+While walking with BABA in Ranchi BABA explained why BRAHMA SADHANA is the only way to attain total salvation. BABA said, "Look, human life has very limited time on earth. In that short span of life, you must not waste a single moment in useless activities. Spend your maximum time doing Sadhana and try to reach perfection as early as possible."
+
+Then BABA continued, "There are thousands of varieties of Sadhana. Learning all those types would take thousands of human births. So don’t run after different varieties of Sadhana. Learn one Sadhana, do it with full energy, and master it." BABA further explained, "There are several expressions of Brahma that control various faculties of the universe — these are called Devtas. Each Devta has a specific acoustic sound called a Bij Mantra.
+For example:
+* Saraswati is the Devta of knowledge — her Bij Mantra is 'Saa' (Sa Sarasvati)
+* Durga's Bij Mantra is 'Dm' (Dm Durga)
+And so on for each Devta."
+
+BABA continued: "When you perform Sadhana for each Devta individually, you are only doing Sadhana of a part of Brahma — not the whole. But when you perform Brahma Sadhana using your Istha Mantra, all Devtas are automatically satisfied. There is no need to worship them individually, because Brahma Sadhana is the Sadhana of the Totality — of Brahma itself.
+This is the only way to reach perfection in human life."   
+From that moment onward, I left behind the craze of learning various forms of Sadhana. Now I realize: BABA NAM KEVALAM (Kirtan Mantra), Istha Mantra, Guru Dhyan, and Service to suffering humanity — together with Service to suffering Humanity — are fully sufficient to help you reach BRAHMAHOOD, the ultimate goal of human life.
