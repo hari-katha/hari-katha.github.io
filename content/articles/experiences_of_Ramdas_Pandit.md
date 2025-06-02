@@ -449,9 +449,20 @@ While walking with BABA in Ranchi BABA explained why BRAHMA SADHANA is the only 
 Then BABA continued, "There are thousands of varieties of Sadhana. Learning all those types would take thousands of human births. So don’t run after different varieties of Sadhana. Learn one Sadhana, do it with full energy, and master it." BABA further explained, "There are several expressions of Brahma that control various faculties of the universe — these are called Devtas. Each Devta has a specific acoustic sound called a Bij Mantra.
 For example:
 * Saraswati is the Devta of knowledge — her Bij Mantra is 'Saa' (Sa Sarasvati)
-* Durga's Bij Mantra is 'Dm' (Dm Durga)
+* Durga's Bij Mantra is 'Dng'(दं) (दं  Durga)
 And so on for each Devta."
 
 BABA continued: "When you perform Sadhana for each Devta individually, you are only doing Sadhana of a part of Brahma — not the whole. But when you perform Brahma Sadhana using your Istha Mantra, all Devtas are automatically satisfied. There is no need to worship them individually, because Brahma Sadhana is the Sadhana of the Totality — of Brahma itself.
 This is the only way to reach perfection in human life."   
 From that moment onward, I left behind the craze of learning various forms of Sadhana. Now I realize: BABA NAM KEVALAM (Kirtan Mantra), Istha Mantra, Guru Dhyan, and Service to suffering humanity — together with Service to suffering Humanity — are fully sufficient to help you reach BRAHMAHOOD, the ultimate goal of human life.
+
+## BABA: The Witnessing Presence Within
+
+Baba is not separate from us. He is an inseparable part of our very existence—silently witnessing all our thoughts, words, and actions. Here, I wish to share a deeply personal experience that revealed to me the all-pervading presence of Baba in our inner being.
+
+It was the day when Baba, for the very first time, introduced the method of Pitri Yajña in Ananda Marga, using the Snán Mantra (bath mantra). By His divine grace, I happened to be present that day at the Patna Office. Baba arrived at the office in the morning and asked all the workers to assemble. He briefly explained the profound philosophy behind Pitri Yajña—that all our comforts, happiness, and progress are possible only because of the contributions of our ancestors and the great scientists of the past. It is our foremost duty, He said, to remember them and pay respectful homage to their legacy every day after taking a bath. Baba then instructed Ramanand Dada to demonstrate Pitri Yajña along with the śloka (chant). After the demonstration, Baba gave a clear order to all the workers: everyone must memorize the ślokas of Pitri Yajña by heart before evening that same day.
+
+Later that morning, during General Darshan at Patliputra Colony around 11:30 AM, Baba once again spoke about the significance of Pitri Yajña. I was sitting just in front of Him. While listening, I was also mentally repeating the śloka in an effort to memorize it. Suddenly, Baba looked directly at me—and then, to my astonishment, He began speaking the exact same śloka aloud. What amazed me most was that Baba’s external voice and my internal mental chanting were perfectly synchronized—as if it was not me, but Baba speaking within me. His physical voice and my mental voice had become one and the same. This divine communion continued till the end of the śloka. That moment felt like a blissful merging of two streams into one sacred flow. I experienced an indescribable oneness with Baba—so intimate, so reassuring. At the end of the śloka, Baba turned toward me and smiled—so sweetly, so knowingly. It was a smile that reached the very depths of my soul.
+
+That small event, though brief, unveiled a vast truth: Baba is within us, always. He is the silent witness of all our thoughts, words, and actions. He is not apart from us—He is us, in our purest, most conscious form protecting us from all upcoming dangers and problems and enlightening us with deep spiritual experiences.   
+( ... my memories with BABA..... Ramdas Pandit, Ahmedabad)
