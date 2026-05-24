@@ -1,9 +1,14 @@
 +++
 date = '2025-10-13T01:10:39+02:00'
 draft = false
-title = 'Baba on History of Jewish People'
+title = 'History of Jewish People'
 tags = ["with_reference"]
 +++
+
+#### Source.
+Article by Acarya Ishtapremananda Avadhuta
+
+>Namaskaram. I am Acarya Ishtapremananda Avadhuta, a sannyasi of Ananda Marga. I am currently based in Andhra Pradesh and am responsible for the southern region of India. For some time, I have wished to share my thoughts on the history of the Jewish community. Since the outbreak of the Hamas–Israel war, there has been a great deal of interpretation and misinterpretation regarding Israelis, Palestinians, and Hamas; communication and misunderstanding abound. Here, I would like to offer a perspective on the origins of the Jewish community
 
 The account I am presenting is based on a discussion between my master, Shrii Shrii Anandamurti—the founder of Ananda Marga (whose official name is Prabhat Ranjan Sarkar, or P.R. Sarkar)—and one of our senior monks, Acarya Viireshvarananda Avadhuta. Shrii Shrii Anandamurti provided an account of the early history of the Jewish people.
 
@@ -25,7 +30,5 @@ This, then, is the background to the history of the Jewish community. Nearly two
 
 This, in brief, is the original history of the Israelis and the Jewish people. What occurred after 1948 is well known. The account I have shared here was given to Acarya Viireshvarananda Avadhuta by my master, Shrii Shrii Anandamurti. According to this tradition, the land of Israel and Palestine originally belonged to the Jewish people. It was not originally the territory of the Islamic community. Sadly, the Jews were forced into exile, but eventually returned to their ancestral home, Jerusalem—the ‘capital of Shiva’.
 
-Many refer to the symbol as the Star of David, but in this tradition it is not; it is the Bhairavi Chakra of Shiva.'
+Many refer to the symbol as the Star of David, but in this tradition it is not; it is the Bhairavi Chakra of Shiva.
 
-#### Source.
-Namaskaram. I am Acarya Ishtapremananda Avadhuta, a sannyasi of Ananda Marga. I am currently based in Andhra Pradesh and am responsible for the southern region of India. For some time, I have wished to share my thoughts on the history of the Jewish community. Since the outbreak of the Hamas–Israel war, there has been a great deal of interpretation and misinterpretation regarding Israelis, Palestinians, and Hamas; communication and misunderstanding abound. Here, I would like to offer a perspective on the origins of the Jewish community.

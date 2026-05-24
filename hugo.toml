@@ -16,21 +16,25 @@ googleAnalytics = 'G-H88T33Z5C9'
   params.header = true
   weight = 2
 [[menu.main]]
+  name = 'Experiences'
+  url = '/experiences'
+  weight = 3
+[[menu.main]]
   name = 'Articles'
   url = '/articles'
-  weight = 3
+  weight = 4
 [[menu.main]]
   name = 'Tags'
   url = '/tags'
-  weight = 3
+  weight = 6
 [[menu.main]]
   name = 'Resources'
   url = '/resources'
-  weight = 3
+  weight = 5
 [[menu.main]]
   name = 'Contact'
   url = '/contact'
-  weight = 3
+  weight = 7
 [taxonomies]
   tag = "tags"
   category = "categories"
