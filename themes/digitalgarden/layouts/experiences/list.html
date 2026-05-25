@@ -7,7 +7,7 @@
     <a href="{{ .Permalink }}">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">{{ .Title }}</h2>
     </a>
-    <p class="text-sm text-slate-600 dark:text-slate-400 px-3 mb-4"><strong>Number of Articles:</strong> {{ len .Data.Pages }}</p>
+    <p class="text-sm text-slate-600 dark:text-slate-400 px-3 mb-4"><strong>Total number of articles:</strong> {{ len .Data.Pages }}</p>
     {{- partial "search.html" . -}}
     <div class="space-y-0.5">
       {{ $sortedPages := sort .Data.Pages "Date" "desc" }}
