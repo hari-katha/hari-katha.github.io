@@ -1,0 +1,8 @@
+/.idea
+/node_modules
+/exampleSite/.hugo_build.lock
+/exampleSite/public
+/exampleSite/resources/_gen
+/exampleSite/hugo_stats.json
+.DS_Store
+
