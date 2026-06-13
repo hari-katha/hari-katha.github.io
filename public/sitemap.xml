@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://harikatha.eu/experiences/</loc>
+    <lastmod>2026-06-13T23:11:25+02:00</lastmod>
+  </url><url>
+    <loc>https://harikatha.eu/tags/personal_experiences/</loc>
+    <lastmod>2026-06-13T23:11:25+02:00</lastmod>
+  </url><url>
+    <loc>https://harikatha.eu/experiences/seven_tests_by_baba/</loc>
+    <lastmod>2026-06-13T23:11:25+02:00</lastmod>
+  </url><url>
+    <loc>https://harikatha.eu/tags/</loc>
+    <lastmod>2026-06-13T23:11:25+02:00</lastmod>
+  </url><url>
+    <loc>https://harikatha.eu/tags/with_reference/</loc>
+    <lastmod>2026-06-13T23:11:25+02:00</lastmod>
+  </url><url>
     <loc>https://harikatha.eu/articles/</loc>
     <lastmod>2025-10-13T01:10:39+02:00</lastmod>
   </url><url>
     <loc>https://harikatha.eu/articles/history_of_jews/</loc>
     <lastmod>2025-10-13T01:10:39+02:00</lastmod>
   </url><url>
-    <loc>https://harikatha.eu/tags/</loc>
-    <lastmod>2025-10-13T01:10:39+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/tags/with_reference/</loc>
-    <lastmod>2025-10-13T01:10:39+02:00</lastmod>
-  </url><url>
     <loc>https://harikatha.eu/tags/1964/</loc>
     <lastmod>2025-05-31T17:14:28+02:00</lastmod>
   </url><url>
     <loc>https://harikatha.eu/tags/excerpt/</loc>
-    <lastmod>2025-05-31T17:14:28+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/experiences/</loc>
     <lastmod>2025-05-31T17:14:28+02:00</lastmod>
   </url><url>
     <loc>https://harikatha.eu/experiences/moralists_march_ahead/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2025-05-29T23:20:54+02:00</lastmod>
   </url><url>
     <loc>https://harikatha.eu/tags/1959/</loc>
-    <lastmod>2025-05-29T23:11:59+02:00</lastmod>
-  </url><url>
-    <loc>https://harikatha.eu/tags/personal_experiences/</loc>
     <lastmod>2025-05-29T23:11:59+02:00</lastmod>
   </url><url>
     <loc>https://harikatha.eu/experiences/stories_by_acarya_kamlakanta/</loc>
